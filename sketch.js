@@ -1,7 +1,7 @@
 var caixa
 
 function setup() {
-  createCanvas(400,400);
+  createCanvas(windowWidth,windowHeight);
 caixa=createSprite(160,160,40,30)
 
 console.log("game") 
